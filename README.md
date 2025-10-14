@@ -31,6 +31,15 @@ Este perfil é o meu espaço para compartilhar **projetos, ideias e aprendizados
 
 ---
 
+## 🚀 Projetos em Destaque
+
+- **[Movies-App](https://github.com/willianminatto/Movies-App)**:  
+  Aplicativo web desenvolvido com **Next.js**, **React**, **TypeScript** e **Sass**.  <br>
+  Apresenta uma interface moderna, responsiva e interativa para busca e visualização de filmes, <br>
+  demonstrando habilidades em front-end e boas práticas de desenvolvimento. <br>
+
+---
+
 ## 📫 Contato
 
 💼 **LinkedIn:** [linkedin.com/in/willianminatto](https://www.linkedin.com/in/willianminatto/)<br>
