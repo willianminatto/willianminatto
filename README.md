@@ -7,15 +7,13 @@ Este perfil é o meu espaço para compartilhar projetos, ideias e aprendizados q
 
 💻 Estudante de Engenharia de Software
 🌱 Sempre explorando novas tecnologias e aprimorando minhas habilidades
-🎯 Foco atual em Front-end (React, TypeScript, SCSS) e projetos inovadores com IA e Web3
-📚 Curioso por arquitetura de software, UX/UI e automação
+🎯 Foco atual em Front-end (React, TypeScript) e projetos inovadores
 
 🧠 Tecnologias e Ferramentas
 
-💡 Linguagens: JavaScript, TypeScript, Java, C#, Python
-⚙️ Frameworks e Bibliotecas: React, Node.js, Spring Boot, .NET, Express
-🗄️ Banco de Dados: PostgreSQL, MongoDB, SQLite
-🎨 Design & Estilo: SCSS, TailwindCSS, Figma
+💡 Linguagens: JavaScript, TypeScript
+⚙️ Frameworks e Bibliotecas: React, Next.js
+🎨 Design & Estilo: Sass, Figma
 🐳 Outros: Docker, Git, API REST, GitHub Actions
 
 📂 O que você vai encontrar por aqui
@@ -27,7 +25,7 @@ Este perfil é o meu espaço para compartilhar projetos, ideias e aprendizados q
 
 📫 Contato
 
-💼 LinkedIn: linkedin.com/in/willianminatto
+💼 LinkedIn: [linkedin.com/in/willianminatto](https://www.linkedin.com/in/willianminatto/)
 
 📧 Email: willianminatto27@gmail.com
 
