@@ -43,7 +43,7 @@ Este perfil é o meu espaço para compartilhar **projetos, ideias e aprendizados
 ## 📫 Contato
 
 💼 **LinkedIn:** [linkedin.com/in/willianminatto](https://www.linkedin.com/in/willianminatto/)<br>
-📧 **Email:** [willianminatto27@gmail.com](mailto:willianminatto27@gmail.com)<br>
+📧 **Email:** [willianminattoo@gmail.com](mailto:willianminattoo@gmail.com)<br>
 
 ---
 
