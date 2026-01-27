@@ -1,50 +1,54 @@
-# 👋 Olá, seja bem-vindo(a)!
+# 👋 Hi, I'm Willian Minatto
 
-Sou **Willian Minatto**, apaixonado por tecnologia, design e desenvolvimento de software.<br>
-Este perfil é o meu espaço para compartilhar **projetos, ideias e aprendizados** que venho adquirindo ao longo da jornada como desenvolvedor.<br>
+I am a **Software Developer currently working with Artificial Intelligence solutions in a professional environment**, mainly using Google Cloud tools.
 
----
-
-## 🚀 Sobre mim
-
-💻 Estudante de **Engenharia de Software**<br>
-🌱 Sempre explorando novas tecnologias e aprimorando minhas habilidades<br>
-🎯 Foco atual em **Front-end (React, TypeScript)** e **projetos inovadores**<br>
+Due to confidentiality, most of my AI work is developed in Google Cloud. This GitHub profile is used to share personal projects, studies, and experiments related to software engineering and web development.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧠 About Me
 
-💡 **Linguagens:** JavaScript, TypeScript<br>
-⚙️ **Frameworks e Bibliotecas:** React, Next.js<br>
-🎨 **Design & Estilo:** Sass, Figma<br>
-🐳 **Outros:** Docker, Git, API REST, GitHub Actions<br>
+In my professional role, I work with the implementation of AI solutions such as chatbots, virtual assistants, and automation systems using platforms like Vertex AI, Dialogflow CX, and Gemini.
 
----
-
-## 📂 O que você vai encontrar por aqui
-
-✨ **Projetos pessoais e acadêmicos**<br>
-🧩 **Experimentos com IA e automação**<br>
-🎮 **Protótipos e ideias criativas**<br>
-🧱 **Estudos e práticas de engenharia de software**<br>
+Here, you will find personal projects that demonstrate my programming fundamentals, integration skills, and continuous learning.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Technologies & Tools
 
-- **[Movies-App](https://github.com/willianminatto/Movies-App)**:  
-  Aplicativo web desenvolvido com **Next.js**, **React**, **TypeScript** e **Sass**.  <br>
-  Apresenta uma interface moderna, responsiva e interativa para busca e visualização de filmes, <br>
-  demonstrando habilidades em front-end e boas práticas de desenvolvimento. <br>
+**Languages**
+- TypeScript
+- JavaScript
+
+**Artificial Intelligence (Professional Experience)**
+- Vertex AI
+- Dialogflow CX
+- Gemini
+- Conversational AI
+- Generative AI
+- Deterministic AI
+
+**Web Development**
+- React
+- Next.js
+
+**Tools & Practices**
+- Git & GitHub
+- API integration
 
 ---
 
-## 📫 Contato
+## 📂 What You'll Find Here
 
-💼 **LinkedIn:** [linkedin.com/in/willianminatto](https://www.linkedin.com/in/willianminatto/)<br>
-📧 **Email:** [willianminattoo@gmail.com](mailto:willianminattoo@gmail.com)<br>
+- Personal web projects and experiments  
+- Integration-focused examples  
+- Software engineering studies  
+
+> *Note: My professional AI work is not fully represented here due to project confidentiality.*
 
 ---
 
-> “Cada projeto é uma oportunidade de aprender, evoluir e criar algo que faça a diferença.” 🚀
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/willianminatto/  
+- Email: willianminattoo@gmail.com
