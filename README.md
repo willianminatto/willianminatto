@@ -1,54 +1,107 @@
-# 👋 Hi, I'm Willian Minatto
+# 👋 Olá, eu sou Willian Minatto
 
-I am a **Software Developer currently working with Artificial Intelligence solutions in a professional environment**, mainly using Google Cloud tools.
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
 
-Due to confidentiality, most of my AI work is developed in Google Cloud. This GitHub profile is used to share personal projects, studies, and experiments related to software engineering and web development.
+Sou estudante de **Engenharia de Software** e desenvolvedor com experiência profissional em **Inteligência Artificial**, especialmente na construção de assistentes virtuais, automações e soluções com IA generativa.
 
----
-
-## 🧠 About Me
-
-In my professional role, I work with the implementation of AI solutions such as chatbots, virtual assistants, and automation systems using platforms like Vertex AI, Dialogflow CX, and Gemini.
-
-Here, you will find personal projects that demonstrate my programming fundamentals, integration skills, and continuous learning.
+Tenho interesse principalmente em **Inteligência Artificial aplicada à Engenharia de Software**, agentes de IA, RAG, automação e desenvolvimento de software.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Sobre mim
 
-**Languages**
+🎓 Graduando em **Engenharia de Software**
+
+💼 Experiência profissional com **Inteligência Artificial e IA Conversacional**
+
+🤖 Experiência com **Dialogflow CX, Vertex AI, Gemini e soluções baseadas em LLMs**
+
+🧩 Estudando e desenvolvendo projetos envolvendo **agentes de IA, RAG e automação**
+
+💻 Desenvolvimento principalmente com **TypeScript, JavaScript e Python**
+
+🚀 Interesse em criar soluções que combinem **IA + Engenharia de Software**
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens
+
 - TypeScript
 - JavaScript
+- Python
 
-**Artificial Intelligence (Professional Experience)**
+### Inteligência Artificial
+
+- Generative AI
+- Conversational AI
+- AI Agents
+- RAG
+- LLMs
 - Vertex AI
 - Dialogflow CX
 - Gemini
-- Conversational AI
-- Generative AI
-- Deterministic AI
+- LangChain
+- ChromaDB
 
-**Web Development**
+### Desenvolvimento
+
+- Node.js
+- NestJS
+- Express
+- FastAPI
 - React
 - Next.js
+- REST APIs
 
-**Tools & Practices**
-- Git & GitHub
-- API integration
+### Dados e infraestrutura
+
+- PostgreSQL
+- SQLite
+- Redis
+- Docker
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Linux
 
 ---
 
-## 📂 What You'll Find Here
+## 🚀 Projetos e estudos
 
-- Personal web projects and experiments  
-- Integration-focused examples  
-- Software engineering studies  
+Neste GitHub você encontrará projetos relacionados a:
 
-> *Note: My professional AI work is not fully represented here due to project confidentiality.*
+- 🤖 Inteligência Artificial
+- 🧠 Agentes de IA
+- 📚 RAG e busca semântica
+- ⚙️ Automação de processos
+- 🔗 Integração de sistemas e APIs
+- 🧪 Experimentos e estudos de Engenharia de Software
+- 🌐 Desenvolvimento web
+
+Parte do meu trabalho profissional com IA não está disponível publicamente devido à confidencialidade dos projetos.
 
 ---
 
-## 📫 Contact
+## 🎯 Atualmente estudando
 
-- LinkedIn: https://www.linkedin.com/in/willianminatto/  
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Arquitetura de agentes de IA
+- RAG
+- LLMs aplicados a sistemas reais
+- IA aplicada à Engenharia de Software
+- TypeScript e Node.js
+- Python para aplicações de IA
+- Arquitetura e qualidade de software
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/willianminatto/
 - Email: willianminattoo@gmail.com
