@@ -31,14 +31,6 @@ Part of my professional AI work is confidential and cannot be published here.
 
 ---
 
-## Selected work
-
-I'm currently building a private **TypeScript-based software product** focused on developer workflows, code intelligence and software engineering.
-
-The product combines full-stack development, backend architecture and developer tooling. Public previews and technical case studies will be shared through my portfolio as it evolves.
-
----
-
 ## What I bring
 
 - **Backend development** with Node.js, NestJS, Prisma and PostgreSQL
