@@ -2,9 +2,9 @@
 
 # Willian Minatto
 
-### Software Engineering · Backend Development · TypeScript · Applied AI
+### Software Engineering · Full-Stack Development · TypeScript · Applied AI
 
-I build web systems, backend services and AI-powered solutions with a focus on  
+I build web applications, backend systems and AI-powered solutions with a focus on  
 **maintainability, testing, security and clear engineering decisions.**
 
 <p>
@@ -16,7 +16,7 @@ I build web systems, backend services and AI-powered solutions with a focus on
   </a>
 </p>
 
-Brazil 🇧🇷
+**Brazil**
 
 </div>
 
@@ -24,13 +24,13 @@ Brazil 🇧🇷
 
 ## About me
 
-I'm a **Software Engineering undergraduate** focused on backend development, TypeScript and applied AI.
+I'm a **Software Engineering undergraduate** working across full-stack development and applied AI, with a stronger focus on **TypeScript and backend systems**.
 
-I work primarily with **TypeScript, JavaScript and Python**, building APIs, web applications, integrations, automation and AI-powered systems.
+I work mainly with **TypeScript, JavaScript and Python**, building web applications, APIs, integrations, automation and AI-powered systems.
 
-I also have professional experience with applied AI, including **virtual assistants, conversational systems and generative AI solutions** using technologies such as Dialogflow CX, Vertex AI and Gemini.
+I also have professional experience with applied AI, including **virtual assistants, conversational systems and generative AI solutions** using Dialogflow CX, Vertex AI and Gemini.
 
-Beyond implementation, I care about the engineering behind the software: **architecture, automated testing, security, maintainability, validation and explicit technical decisions**.
+Alongside implementation, I focus on the engineering fundamentals behind the software: **architecture, automated testing, security, maintainability, validation and clear technical decisions**.
 
 > Some of my professional AI work is confidential and cannot be published publicly.
 
@@ -42,29 +42,30 @@ Beyond implementation, I care about the engineering behind the software: **archi
 <tr>
 <td width="50%" valign="top">
 
-### Backend Engineering
-
-- REST APIs
-- Node.js & NestJS
-- PostgreSQL & Prisma
-- Authentication
-- Data modeling
-- Validation
-- Integrations
-- Error handling
-
-</td>
-<td width="50%" valign="top">
-
 ### Full-Stack Development
 
 - React
 - Next.js
 - TypeScript
-- Server-side applications
 - API integration
 - Responsive interfaces
+- Authentication flows
 - Tailwind CSS
+- Server-side rendering
+
+</td>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- Node.js
+- NestJS
+- REST APIs
+- PostgreSQL
+- Prisma
+- Authentication
+- Data modeling
+- Validation & error handling
 
 </td>
 </tr>
@@ -79,9 +80,9 @@ Beyond implementation, I care about the engineering behind the software: **archi
 - Structured outputs
 - Agent routing
 - Conversational AI
+- Dialogflow CX
 - Vertex AI / Gemini
 - OpenAI APIs
-- LangChain / LangGraph
 
 </td>
 <td width="50%" valign="top">
@@ -93,8 +94,8 @@ Beyond implementation, I care about the engineering behind the software: **archi
 - End-to-end testing
 - Input validation
 - Security boundaries
-- CI workflows
 - Docker
+- CI workflows
 - Technical documentation
 
 </td>
@@ -167,13 +168,13 @@ Beyond implementation, I care about the engineering behind the software: **archi
 
 ---
 
-## What I care about when building software
+## How I approach software
 
 ```text
 Clear contracts       → predictable behavior
 Automated tests       → safer changes
 Input validation      → explicit system boundaries
-Security              → part of the feature
+Security              → part of the implementation
 Small changes         → easier review and rollback
 Documentation         → decisions remain understandable
 Simple architecture   → complexity only when the problem requires it
@@ -181,7 +182,7 @@ Simple architecture   → complexity only when the problem requires it
 
 I prefer architecture proportional to the problem rather than adding complexity prematurely.
 
-My goal is not just to make something work, but to make it **understandable, testable and maintainable**.
+My goal is to understand the systems I work on well enough to **review, test, debug and evolve them with confidence**.
 
 ---
 
@@ -191,25 +192,25 @@ My goal is not just to make something work, but to make it **understandable, tes
 - Keep tests close to the behavior they protect.
 - Prefer explicit contracts over hidden assumptions.
 - Treat validation, authentication and security as part of implementation.
-- Document meaningful architectural decisions and limitations.
+- Document important trade-offs and limitations.
 - Avoid unnecessary abstractions and premature optimization.
-- Refactor when the code provides evidence that the abstraction is needed.
+- Use AI as a development tool while keeping technical decisions reviewable and explainable.
 
 ---
 
-## Beyond the code
+## Continuous learning
 
-I use personal projects to explore areas that complement my professional experience, especially:
+I use personal projects and technical study to strengthen the fundamentals behind the technologies I work with.
 
-- backend architecture;
-- developer tooling;
-- software quality;
+My current focus includes:
+
+- TypeScript and backend architecture;
+- React and Next.js application development;
 - automated testing;
-- applied AI;
 - system design;
-- security.
-
-I prefer projects that force me to make real engineering decisions instead of simply reproducing tutorials.
+- application security;
+- applied AI and structured LLM workflows;
+- understanding and reproducing core concepts without relying entirely on tooling.
 
 ---
 
