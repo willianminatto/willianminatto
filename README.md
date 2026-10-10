@@ -26,7 +26,7 @@ I build web applications, backend systems and AI-powered solutions with a focus 
 
 I'm a **Software Engineering undergraduate** working across full-stack development and applied AI, with a stronger focus on **TypeScript and backend systems**.
 
-I work mainly with **TypeScript, JavaScript and Python**, building web applications, APIs, integrations, automation and AI-powered systems.
+I work mainly with **TypeScript and JavaScript**, building web applications, APIs, integrations, automation and AI-powered systems.
 
 I also have professional experience with applied AI, including **virtual assistants, conversational systems and generative AI solutions** using Dialogflow CX, Vertex AI and Gemini.
 
@@ -117,9 +117,6 @@ Alongside implementation, I focus on the engineering fundamentals behind the sof
     <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript documentation" />
   </a>
   &nbsp;
-  <a href="https://docs.python.org/3/">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" title="Python documentation" />
-  </a>
 </p>
 
 ### Backend & Data
