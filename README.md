@@ -14,7 +14,7 @@ I build web applications, backend systems and AI-powered solutions with a focus 
   <a href="mailto:contato@willianminatto.com">
     <img src="https://img.shields.io/badge/Email-contato%40willianminatto.com-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</p> 
 
 **Brazil**
 
